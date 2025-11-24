@@ -59,7 +59,7 @@ Facilita subir los proyectos a plataformas como GitHub.
 - Problemas con las comillas raras en Git Bash.
 - Confusión con el comando push.
 - Error en la URL.
-
+  
 
 ##  Conclusión del día
 
@@ -68,3 +68,17 @@ También entendí cómo subir mi proyecto a GitHub.
 Ahora sé cómo se conectan los cambios locales con los remotos.
 Git me ayudará a organizar mejor mis trabajos.
 
+##  MODULO 8
+
+## Problemas del día
+Tuve problemas con los comandos de push y con el gitignore, pero los solucioné.
+
+## ¿Qué aprendí hoy?
+Aprendí a usar ramas, hacer merge, resolver conflictos y usar gitignore.
+
+## ¿Qué fue lo más difícil?
+Entender los conflictos y cómo solucionarlos correctamente.
+
+## Conclusión del taller
+Git es una herramienta muy útil para trabajar en equipo y llevar control de versiones.
+Al principio es difícil, pero con práctica se entiende mejor.
