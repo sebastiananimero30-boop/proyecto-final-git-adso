@@ -1,0 +1,12 @@
+TAREAS PENDIENTES:
+- Crear página de perfil
+- Arreglar errores en el login
+- Diseñar el menú lateral
+
+TAREAS REALIZADAS:
+- Crear repositorio
+- Configurar ramas
+
+TAREAS BLOQUEADAS:
+- Integrar base de datos
+- Validación con servidor externo
